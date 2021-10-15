@@ -1,0 +1,17 @@
+package com.example.photoapp.api.users.service;
+
+import java.util.UUID;
+
+import com.example.photoapp.api.users.shared.UserDto;
+
+public class UsersServiceImpl implements UsersService {
+
+	@Override
+	public UserDto createUser(UserDto userDetails) {
+		
+		userDetails.setUserId(UUID.randomUUID().toString());
+		ModelMapper modelMapper = new ModelMapper();
+		return null;
+	}
+
+}
