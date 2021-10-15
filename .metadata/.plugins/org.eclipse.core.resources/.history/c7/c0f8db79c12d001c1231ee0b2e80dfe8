@@ -1,0 +1,7 @@
+package com.example.photoapp.api.users.ui.model;
+
+public class CreateUserResponseModel {
+
+	private String firstName;
+	pr
+}
