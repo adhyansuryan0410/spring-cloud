@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=PhotoAppApiUsers/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.photoapp.api.users.service{UsersService.java[UsersService" modifiers="513" timestamp="1634303042671"/>
+    <typeInfo handle="=PhotoAppApiUsers/C:\/Program Files\/Java\/jdk-14.0.1\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/14\/docs\/api\/=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1601126610586"/>
+    <typeInfo handle="=PhotoAppApiUsers/C:\/Users\/coola\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.5.5\/spring-data-commons-2.5.5.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/javadoc_location=/jar:file:\/C:\/Users\/coola\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.5.5\/spring-data-commons-2.5.5-javadoc.jar\!\/=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.5.5=/=/maven.scope=/compile=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1632585030910"/>
+    <typeInfo handle="=PhotoAppApiUsers/C:\/Users\/coola\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.5.5\/spring-data-jpa-2.5.5.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.5.5=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository.support(CrudMethodMetadata.class[CrudMethodMetadata" modifiers="1537" timestamp="1632585030481"/>
+</typeInfoHistroy>
