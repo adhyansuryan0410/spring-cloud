@@ -1,6 +1,0 @@
-package com.example.photoapp.api.users.service;
-
-public interface UsersService {
-
-	UserDto createUser(UserDto userDetails);
-}

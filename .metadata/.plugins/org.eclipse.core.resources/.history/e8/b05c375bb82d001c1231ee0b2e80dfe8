@@ -1,5 +1,0 @@
-package com.example.photoapp.api.users.service;
-
-public class UsersServiceImpl implements UsersService {
-
-}

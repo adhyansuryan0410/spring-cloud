@@ -1,5 +1,0 @@
-package com.example.photoapp.api.users.security;
-
-public class AuthenticationFilter {
-
-}

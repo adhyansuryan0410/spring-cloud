@@ -1,5 +1,0 @@
-package com.example.photoapp.api.users.shared;
-
-public class UserDto {
-
-}
