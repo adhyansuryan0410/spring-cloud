@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-PhotoAppDiscoveryServiceApplication<PhotoAppDiscoveryService>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.photoapp.discovery.PhotoAppDiscoveryServiceApplication",
+      "projectName": "PhotoAppDiscoveryService",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-PhotoAppApiGatewayApplication<PhotoAppApiGateway>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.photoapp.api.gateway.PhotoAppApiGatewayApplication",
+      "projectName": "PhotoAppApiGateway",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-PhotoAppApiConfigServerApplication<photoappapiconfigserver>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.photoapp.api.PhotoAppApiConfigServerApplication",
+      "projectName": "photoappapiconfigserver",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-PhotoAppApiUsersApplication<PhotoAppApiUsers>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.photoapp.api.users.PhotoAppApiUsersApplication",
+      "projectName": "PhotoAppApiUsers",
+      "args": ""
+    }
+  ]
+}
